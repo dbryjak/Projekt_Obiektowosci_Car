@@ -20,5 +20,10 @@ public class Frog {
     // chengeName - zmiana imienia
     public void changeName(String name){
         this.name = name;
+        }
+    // viewName - metoda, która pokazuje zmianę (np. imienia)
+    public String viewName(){
+        return name;
+
     }
 }
