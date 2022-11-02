@@ -3,6 +3,6 @@ public class zmienna_z_napisem {
     public static void main(String[] args) {
         int liczba = 100;
         int liczba1 = 50;
-        System.out.println("Pierwsza wartość " +liczba1, "Druga wartość " +liczba);
+        //System.out.println("Pierwsza wartość " +liczba1, "Druga wartość " +liczba);
     }
 }
